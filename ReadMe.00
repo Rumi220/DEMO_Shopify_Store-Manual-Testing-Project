@@ -1,9 +1,9 @@
-#⚡ Ecommerce Website Manual Testing Project
-📌 Project Overview
+#  ⚡Ecommerce Website Manual Testing Project
+#  📌 Project Overview
 
 This project demonstrates manual testing of a Shopify-based e-commerce web application. The goal is to evaluate the system by performing requirement analysis, designing test cases, executing tests, and reporting bugs and missing functionalities.
 
-🌐 Application Under Test
+# 🌐 Application Under Test
 Website: https://sauce-demo.myshopify.com/
 Type: E-commerce Clothing Website
 
