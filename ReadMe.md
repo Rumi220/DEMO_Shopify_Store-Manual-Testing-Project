@@ -11,22 +11,21 @@ Test Plan ID: TP-SauceDemo-01
 Testing Phase: Functional | UI | Compatibility | Usability
 
 ## 🎯Objectives 
-Understand application requirements
-Design test cases for major modules
-Execute manual testing
-Identify bugs and missing features
-Document test results in a structured format
+- Understand application requirements
+- Design test cases for major modules
+- Execute manual testing
+- Identify bugs and missing features
+- Document test results in a structured format
 
 ## 🔍Scope of Testing
-
 The following modules were tested:
 
-Home Page & Navigation
-Product Listing
-Product Details Page
-Shopping Cart
-Sold-out Product Handling
-Informational Pages (About, Blog)
+- Home Page & Navigation
+- Product Listing
+- Product Details Page
+- Shopping Cart
+- Sold-out Product Handling
+- Informational Pages (About, Blog)
 
 
 ## 📄Project Artifacts
@@ -35,37 +34,37 @@ Informational Pages (About, Blog)
 
 Identified core features and missing functionalities such as:
 
-User authentication system (not available)
-Search & filter functionality (missing)
-Wishlist feature (missing)
-Checkout system (not fully available)
-Product reviews & ratings (missing)
+- User authentication system (not available)
+- Search & filter functionality (missing)
+- Wishlist feature (missing)
+- Checkout system (not fully available)
+- Product reviews & ratings (missing)
 
 ### 2. Test Cases
-Designed functional test cases for all major modules
-Covered positive and negative scenarios
-Focused on UI and usability testing
+- Designed functional test cases for all major modules
+- Covered positive and negative scenarios
+- Focused on UI and usability testing
 
 ### 3. Test Execution
-Executed test cases manually
-Verified expected vs actual results
-Recorded pass/fail status
+- Executed test cases manually
+- Verified expected vs actual results
+- Recorded pass/fail status
 
 ### 4. Bug Reports
-Documented UI issues and functional defects
-Identified missing features as enhancement requests
-Included steps to reproduce and expected results
+- Documented UI issues and functional defects
+- Identified missing features as enhancement requests
+- Included steps to reproduce and expected results
 
 ## 🧰 Tools Used
-Google Sheets / Excel (Test Cases & Bug Reports)
-Browser Developer Tools
-Manual Testing Techniques
+- Google Sheets / Excel (Test Cases & Bug Reports)
+- Browser Developer Tools
+- Manual Testing Techniques
 
 ## 📊 Key Findings
-Basic e-commerce flow is functional
-Several advanced features are missing
-UI and usability can be improved
-Cart functionality works with limitations
+- Basic e-commerce flow is functional
+- Several advanced features are missing
+- UI and usability can be improved
+- Cart functionality works with limitations
 
 # 🚀Conclusion
 
