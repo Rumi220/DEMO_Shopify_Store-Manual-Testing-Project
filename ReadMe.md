@@ -10,14 +10,14 @@ Type: E-commerce Clothing Website
 Test Plan ID: TP-SauceDemo-01  
 Testing Phase: Functional | UI | Compatibility | Usability
 
-🎯 Objectives
+## 🎯Objectives 
 Understand application requirements
 Design test cases for major modules
 Execute manual testing
 Identify bugs and missing features
 Document test results in a structured format
 
-🔍 Scope of Testing
+## 🔍Scope of Testing
 
 The following modules were tested:
 
@@ -29,9 +29,9 @@ Sold-out Product Handling
 Informational Pages (About, Blog)
 
 
-📄 Project Artifacts
+## 📄Project Artifacts
 
-1. Requirement Analysis
+### 1. Requirement Analysis
 
 Identified core features and missing functionalities such as:
 
@@ -41,32 +41,32 @@ Wishlist feature (missing)
 Checkout system (not fully available)
 Product reviews & ratings (missing)
 
-2. Test Cases
+### 2. Test Cases
 Designed functional test cases for all major modules
 Covered positive and negative scenarios
 Focused on UI and usability testing
 
-3. Test Execution
+### 3. Test Execution
 Executed test cases manually
 Verified expected vs actual results
 Recorded pass/fail status
 
-4. Bug Reports
+### 4. Bug Reports
 Documented UI issues and functional defects
 Identified missing features as enhancement requests
 Included steps to reproduce and expected results
 
-🧰 Tools Used
+## 🧰 Tools Used
 Google Sheets / Excel (Test Cases & Bug Reports)
 Browser Developer Tools
 Manual Testing Techniques
 
-📊 Key Findings
+## 📊 Key Findings
 Basic e-commerce flow is functional
 Several advanced features are missing
 UI and usability can be improved
 Cart functionality works with limitations
 
-🚀 Conclusion
+# 🚀Conclusion
 
 This project helped in understanding real-world manual testing practices including requirement analysis, test case design, execution, and defect reporting in an e-commerce domain.
