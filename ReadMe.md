@@ -38,22 +38,32 @@ Identified core features and missing functionalities such as:
 - Search & filter functionality (missing)
 - Wishlist feature (missing)
 - Checkout system (not fully available)
-- Product reviews & ratings (missing)
+- Product reviews & ratings (missing
 
-### 2. Test Cases
+### 2. Test Plan
+- Created a structured test plan outlining the testing strategy, scope, objectives, test environment, and approach.
+- Defined testing types including functional, UI, usability, and compatibility testing.
+- Established entry and exit criteria, test schedule, and deliverables for the project.
+
+### 3. Test Cases
 - Designed functional test cases for all major modules
 - Covered positive and negative scenarios
 - Focused on UI and usability testing
 
-### 3. Test Execution
+  <img width="1507" height="547" alt="image" src="https://github.com/user-attachments/assets/32db31ae-a505-49d2-9ee0-428847559dfb" />
+
+### 4. Test Execution
 - Executed test cases manually
 - Verified expected vs actual results
 - Recorded pass/fail status
 
-### 4. Bug Reports
+### 5. Defect Reports
 - Documented UI issues and functional defects
 - Identified missing features as enhancement requests
 - Included steps to reproduce and expected results
+
+  <img width="1045" height="555" alt="image" src="https://github.com/user-attachments/assets/2d383e74-ad13-41bf-87c8-1de76e4d6e71" />
+
 
 ## 🧰 Tools Used
 - Google Sheets / Excel (Test Cases & Bug Reports)
